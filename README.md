@@ -5,12 +5,11 @@ everything!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurnadianovsham&label=Profile%20views&color=0e75b6&style=flat" alt="nurnadianovsham" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing, API Testing, and also improving my manual testing skill**
+- 🌱 I’m currently learning **Automation Testing, API Testing, and also improving my manual testing skills**
 
 - 📫 How to reach me **nadianovsham@gmail.com**
 
 - ⚡ Fun fact **I like memes!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
